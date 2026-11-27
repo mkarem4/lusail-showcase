@@ -15,7 +15,7 @@ Home services run on coordination: a request, a price, a schedule, a conversatio
 
 ## My role
 
-**Senior Laravel Backend Engineer**
+**Senior Laravel Backend Engineer & Team Lead**
 
 - Designed and built the backend: domain model, service-request and quote lifecycle, payments and wallet ledger.
 - Built the messaging layer, including conversations, staff canned replies and message reporting.
